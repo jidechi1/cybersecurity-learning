@@ -1,2 +1,2 @@
 # cybersecurity-learning
-What i've learned so far
+My cybersecurity notes, labs, write-ups, and learning journey.
